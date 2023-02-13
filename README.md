@@ -1,10 +1,7 @@
 
-### Hello World 👋 It's [Deepan])
+### Hello 👋 It's Deepan
 
 <br/>
-
-
-
 <a href="https://www.linkedin.com/in/deepanellenti/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,7 +9,6 @@
 
 <br />
 ✌
-
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
